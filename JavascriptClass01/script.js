@@ -93,5 +93,6 @@
 
 
 console.log("Hello SMIT");
+alert("This is a display")
 
 
