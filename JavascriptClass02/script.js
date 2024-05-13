@@ -29,9 +29,14 @@ let UserName = "Wasifa";
 
 // alert("Thanks, " + "         "+ UserName + "!");
 
-let x = 6;
-let y = 2;
-console.log(x  +  y);
+// let x = 6;
+// let y = 2;
+// console.log("!");
+
+// alert("2" + "2");
+
+let username = prompt("Your Name is?");
+console.log(username);
 
 
 
