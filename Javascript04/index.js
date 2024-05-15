@@ -62,6 +62,7 @@
 // }
 
 let number1 = +prompt("Enter a number");
+//Logical NOT
 
 if (number1 % 2 !== 0) {
     console.log("The number is even");
