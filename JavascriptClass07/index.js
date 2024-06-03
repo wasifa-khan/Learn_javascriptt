@@ -22,10 +22,11 @@
 // console.log("Hello World");
 // console.log("Hello World");
 
-// for(let i = 0;i < 20;i++){
-//     console.log("Hello World");
+
+// for (let i = 50; i > 4; i = i - 5) {
+//     console.log(i);
 // }
 
-for (let i = 50; i > 4; i = i - 5) {
-    console.log(i);
+for(let i = 0;i < 20; i++){
+    console.log("Hello World");
 }
