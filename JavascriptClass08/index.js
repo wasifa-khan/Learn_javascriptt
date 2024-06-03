@@ -47,13 +47,17 @@
 // color.splice(index_to_add, 0, color_to_add);
 // document.write("<br><br>Updated Array is : " + color);
 
-let color = ["Yellow", "Green", "Orange", "Purple", "Red", "Black", "Gray"];
-document.write("Original Array is: " + color);
-let index_to_delete = +prompt("At which index color will be Deleted");
-let colorNo_to_delete = +prompt("Enter the Color Name that you want to delete ");
-color.splice(index_to_delete,colorNo_to_delete);
-document.write("<br><br>Updated Array is : " + color);
+// let color = ["Yellow", "Green", "Orange", "Purple", "Red", "Black", "Gray"];
+// document.write("Original Array is: " + color);
+// let index_to_delete = +prompt("At which index color will be Deleted");
+// let colorNo_to_delete = +prompt("Enter the Color Name that you want to delete ");
+// color.splice(index_to_delete,colorNo_to_delete);
+// document.write("<br><br>Updated Array is : " + color);
 
+let scores = [320, 230, 480, 120]
+document.write("<h3>Scores of Student: " + scores)
+scores.sort();
+document.write("<br>Ordered Scores of Student: " + scores)
 
 
 
