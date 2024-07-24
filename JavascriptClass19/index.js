@@ -54,10 +54,12 @@
 // document.write("<br>"+ "<h1>Happy New Year</h1>")
 
 
-let n = +prompt("Enter the value of n")
-let i = 10;
-do{   
-   document.write("<br>" + i)
-   i++;
-}while(i<=n) //n = 12
+// let n = 34;
+// let i = 12;
+// while(i <= n){   
+//    document.write("<br>" + i);
+//    i++;
+// }
+
+
 
